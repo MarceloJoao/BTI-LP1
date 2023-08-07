@@ -1,0 +1,30 @@
+##########    ASGS    ##########
+Nome: Pedro Cunha de Araujo - R$ 1584
+Nome: Jorge Pereira Linhares - R$ 1378
+Nome: Antonio Augusto de Souza Filho - R$ 1320
+Nome: Pedro de Araujo - R$ 1320
+Nome: Pedro de Araujo - R$ 1320
+Nome: Pedro de Araujo - R$ 1320
+Nome: Pedro de Araujo - R$ 1320
+Soma ASGs: 9383.15
+
+##########    Vendedores    ##########
+Nome: Andre de Albuquerque de Souza - R$ 2200
+Nome: Suziane Augusta Maria de Souza - R$ 1500
+Nome: Alexandra Gonçalve Dias - R$ 1500
+Nome: Maximus Decimus Meridius - R$ 1500
+Nome: Paulo Herculano de Souza - R$ 1708
+Soma Vendedores: 8916.67
+
+##########    Gerentes    ##########
+Nome: Marcus Aurelius de Souza - R$ 1500
+Soma Gerentes: 1500
+
+**************************** 
+Soma de salarios: 67863.2
+**************************** 
+Faturamento Mensal da Empresa: 156290
+porcentagem do custo dos Asgs: 6%
+porcentagem do custo dos Vendedores: 5.7%
+porcentagem do custo dos Gerentes: 0.96%
+A EMPRESA TEVE LUCRO ESSE MES
